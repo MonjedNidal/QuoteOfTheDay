@@ -1,1 +1,1 @@
-This project is now up on <h1>monjedquotes.netlify.com</h1>
+This project is now up on <a href="https://monjedquotes.netlify.com">monjedquotes.netlify.com</a>
